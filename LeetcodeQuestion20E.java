@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 import java.util.List;
-
+// code for adding a number to the array then storing it in arraylist
 public class LeetcodeQuestion20E
 {
     public static void main(String[] args)
