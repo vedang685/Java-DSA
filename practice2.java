@@ -3,7 +3,7 @@ import java.util.Arrays;
 public class practice2
 {
     public static void main(String[] args) {
-        int[] nums = {4,3,1,0};
+        int[] nums = {4,5,3,1,0};
         System.out.println(CyclicSort(nums));
     }
     static int CyclicSort(int[] nums)
