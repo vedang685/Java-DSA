@@ -26,6 +26,7 @@ public class LeetcodeQuestion29M
                     i++;
                 }
             }
+            return -1;
     }
 
     static void swap(int[] nums, int i, int correct)
