@@ -4,7 +4,7 @@ public class CycleSort
 {
     public static void main(String[] args)
     {
-        int[] nums = {3,5,1,2,4};
+        int[] nums = {4,3,2,7,8,2,3,1};
         // numbers are from 1 to n hence correct place for number at nums[i] = nums[i]-1
         sort(nums);
         System.out.println(Arrays.toString(nums));
