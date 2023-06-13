@@ -16,7 +16,7 @@ class Student
 
     void greetings()
     {
-        System.out.println("Hello My name is: " + name);
+        System.out.println("Hello My name is: " + this.name);
     }
     Student(int roll, float marks, String name)
     {
